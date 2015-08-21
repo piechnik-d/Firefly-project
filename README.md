@@ -1,2 +1,2 @@
 # Firefly-project
-Development of ways to display biological phenomenon for public outreach
+Development of ways to display biological phenomena for public outreach
